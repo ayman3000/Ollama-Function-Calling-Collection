@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock,description
+101,Wireless Mouse,Electronics,20.99,150,High-quality wireless mouse
+102,Yoga Mat,Sports,12.5,75,Durable yoga mat
+103,Coffee Mug,Kitchen,7.25,200,Stylish coffee mug
+104,Desk Lamp,Home Decor,15.0,50,Adjustable desk lamp
+105,Notebook,Stationery,2.99,500,Compact notebook
+106,Laptop Stand,Electronics,29.99,120,Ergonomic laptop stand
+107,Headphones,Electronics,49.99,80,Noise-canceling headphones
+108,Water Bottle,Kitchen,9.99,150,Stainless steel water bottle
+109,Bluetooth Speaker,Electronics,39.99,60,Portable Bluetooth speaker
+110,Phone Case,Electronics,14.99,250,Protective phone case
+111,Power Bank,Electronics,19.99,300,Long-lasting power bank
+112,USB Cable,Electronics,4.99,400,Flexible USB cable
+113,Monitor,Electronics,129.99,70,Wide-screen monitor
+114,Keyboard,Electronics,25.99,150,Mechanical keyboard
+115,Smartwatch,Electronics,199.99,50,Feature-rich smartwatch
+116,Desk Chair,Furniture,89.99,30,Comfortable desk chair
+117,Office Desk,Furniture,150.0,25,Spacious office desk
+118,Table Lamp,Home Decor,30.0,60,Modern table lamp
+119,Wall Clock,Home Decor,24.99,40,Minimalist wall clock
+120,Backpack,Fashion,39.99,200,Durable backpack
+121,Gaming Mouse,Electronics,59.99,100,Precision gaming mouse
+122,Webcam,Electronics,34.99,90,High-definition webcam
+123,HDMI Cable,Electronics,12.99,350,High-speed HDMI cable
+124,Flash Drive,Electronics,14.99,250,Reliable flash drive
+125,Portable SSD,Electronics,99.99,75,Compact portable SSD
+126,Fitness Tracker,Electronics,49.99,60,Advanced fitness tracker
+127,Smartphone,Electronics,799.99,40,Latest smartphone
+128,Tablet,Electronics,299.99,30,Sleek tablet
+129,Wireless Charger,Electronics,19.99,300,Fast wireless charger
+130,VR Headset,Electronics,399.99,20,Immersive VR headset
+131,Air Purifier,Home Appliances,149.99,50,Efficient air purifier
+132,Electric Kettle,Home Appliances,59.99,60,Quick-boil electric kettle
+133,Microwave Oven,Home Appliances,99.99,70,Compact microwave oven
+134,Blender,Home Appliances,49.99,80,Powerful blender
+135,Toaster,Home Appliances,29.99,90,Stylish toaster
+136,Hair Dryer,Home Appliances,39.99,100,Lightweight hair dryer
+137,Vacuum Cleaner,Home Appliances,499.99,30,High-suction vacuum cleaner
+138,Dishwasher,Home Appliances,699.99,20,Energy-efficient dishwasher
+139,Washing Machine,Home Appliances,999.99,10,Top-load washing machine
+140,Refrigerator,Home Appliances,399.99,15,Double-door refrigerator
+141,Sofa,Furniture,599.99,25,Comfortable sofa
+142,Dining Table,Furniture,249.99,35,Elegant dining table
+143,Bookshelf,Furniture,499.99,45,Sturdy bookshelf
+144,Television,Electronics,199.99,20,Ultra-HD television
+145,Soundbar,Electronics,499.99,10,Crystal-clear soundbar
+146,Projector,Electronics,899.99,15,High-lumen projector
+147,Electric Scooter,Transportation,599.99,40,Eco-friendly electric scooter
+148,Bicycle,Transportation,999.99,30,Lightweight bicycle
+149,Treadmill,Fitness,1499.99,20,Advanced treadmill
+150,Elliptical Machine,Fitness,120.99,15,Smooth elliptical machine
